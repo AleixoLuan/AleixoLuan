@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AleixoLuan
 - 👀 I’m interested in HMTL, JavaSript, CSS, C, C#, C++, Python, Ruby, Docker, React
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, Python, GIT and GITHUB
+- 🌱 I’m currently learning HTML, CSS, JavaScript, NodeJS, React, PHP, Python, GIT and GITHUB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me almeidaluan631@gmail.com
 
