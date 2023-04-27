@@ -1,17 +1,16 @@
-- 👋 Hi, I’m @AleixoLuan
-- 👀 I’m interested in HMTL, JavaSript, CSS, C, C#, C++, Python, Ruby, Docker, React
-- 🌱 I’m currently learning HTML, CSS, JavaScript, NodeJS, React, PHP, Python, GIT and GITHUB
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me almeidaluan631@gmail.com
-
 <!-- Início primeira seção -->
 <h1> 🧑🏻‍💻 Luan Aleixo</h1>
+
+- 👋 Oi, eu sou o Luan!
+- 👀 Tenho interesse em HMTL, CSS, JavaSript, React, Python, PHP, C, C#, C++, Ruby, Docker
+- 🌱 Estou aperfeiçoando neste momento o HTML, CSS, JavaScript, React, e aprendendo PHP, Python, NodeJS, Git e GitHub
+- 📫 Como me contatar: almeidaluan631@gmail.com
 
 <!-- Add um Gif -->
 <!-- Arrastar e jogar um git para o README.md do github -->
 
 <p align:"center">
-    Um estudande de Engenharia Elétrica, porém aficionado por programação. Adoro aprender novas linguagens de programação e novas tecnologias. Também gosto de ajudar outros programadores no que eu for capaz. Aliás, precisando me chame. 👌🏻
+    Sou estudande de Engenharia Elétrica, porém aficionado por programação. Adoro aprender novas linguagens de programação e novas tecnologias. Também gosto de ajudar outros programadores no que eu for capaz. Aliás, precisando me chame. 👌🏻
 <br>
 <br>
 <div align="center">
@@ -23,11 +22,11 @@
 
 <!-- Início da segunda seção -->
 
-<h2 style="color:#44AEFB"> ⚙️ Lingaugens e Tecnologias</h2>
+<h2 style="color:#44AEFB"> ⚙️ Linguagens e Tecnologias</h2>
 
 <!-- Adicionar um Git -->
 <!-- Arrastar e jogar um git para o README.md do github -->
-
+<br>
 <div align="center">
 
   </a>
@@ -59,6 +58,7 @@
         <img alt="AWS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   </a>
 </div>
+<br>
 <br>
 <!-- Fim da segunda seção -->
 
