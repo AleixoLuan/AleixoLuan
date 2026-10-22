@@ -10,7 +10,7 @@
 <!-- Arrastar e jogar um git para o README.md do github -->
 
 <p align:"center">
-    Sou estudande de Engenharia Elétrica, porém aficionado por programação. Adoro aprender novas linguagens de programação e novas tecnologias. Também gosto de ajudar outros programadores no que eu for capaz. Aliás, precisando me chame. 👌🏻
+    Estudande de Engenharia de Software. Adoro aprender novas linguagens de programação e novas tecnologias. Também gosto de ajudar outros programadores no que eu for capaz. Aliás, precisando me chame. 👌🏻
 <br>
 <br>
 <div align="center">
