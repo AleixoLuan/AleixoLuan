@@ -2,9 +2,11 @@
 <h1> 🧑🏻‍💻 Luan Aleixo</h1>
 
 - 👋 Oi, eu sou o Luan!
-- 👀 Tenho interesse em HMTL, CSS, JavaSript, React, Python, PHP, C, C#, C++, Ruby, Docker
-- 🌱 Estou aperfeiçoando neste momento o HTML, CSS, JavaScript, React, e aprendendo PHP, Python, NodeJS, Git e GitHub
+- 👀 Tenho interesse em Desenvolvimento Back-end, IA Generativa, Dados e Engenharia de Software.
+- 🌱 Atualmente desenvolvendo projetos práticos com **Python, SQL(SQL Server, SQLite), APIs de IA (Gemini), Git e GitHub**, além de conhecimentos em HTML, CSS, JavaScript, React, PHP e .
 - 📫 Como me contatar: almeidaluan631@gmail.com
+
+Estudante de Engenharia de Software. Gosto de resolver problemas práticos com código e colaborar com outros desenvolvedores.
 
 <!-- Add um Gif -->
 <!-- Arrastar e jogar um git para o README.md do github -->
